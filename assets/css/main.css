@@ -252,7 +252,7 @@ color: black;
 
 .profession{
   color: #3300FF; 
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-family: 'Poppins', sans-serif;
   text-align: left;
   padding-left: 15%;
@@ -267,7 +267,7 @@ color: black;
   padding-left: 15%;
   padding-right: 15%;
   padding-top: 2%;
-  font-size: 1.0em;
+  font-size: 8.0em;
   line-height : 1.4em;
 }
 
@@ -292,7 +292,7 @@ padding-left: 15%;
 padding-right: 15%;
 margin-top: 6%;
 
-font-size: .9em;
+font-size: .7em;
 
 }
 
