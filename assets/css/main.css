@@ -115,7 +115,7 @@ align-items: center;
 
 .proximamente{
   color: #3300FF; 
-  font-size: 4em;
+  font-size: 3em;
   font-family: 'Poppins', sans-serif;
   text-align: left;
   padding-left: 15%;
@@ -312,7 +312,7 @@ color: #3300FF;
 
 .profession{
   color: #3300FF; 
-  font-size: 1.2em;
+  font-size: 2em;
   font-family: 'Poppins', sans-serif;
   text-align: left;
   padding-left: 15%;
@@ -324,7 +324,7 @@ color: #3300FF;
   color: #3300FF; 
   font-size: 2em;
   font-family: 'Poppins', sans-serif;
-  text-align: center;
+  text-align: left;
   padding-left: 15%;
   padding-right: 15%;
 }
@@ -338,7 +338,7 @@ color: #3300FF;
   padding-right: 15%;
   padding-top: 2%;
   font-size: 1em;
-  line-height : 1.4em;
+  line-height : 1.8em;
 }
 
 
