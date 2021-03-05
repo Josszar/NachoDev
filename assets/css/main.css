@@ -142,7 +142,7 @@ margin-top: 60px;
         background: -webkit-gradient(linear, left top, right top, 
      from(rgb(51, 0, 255)), color-stop(0%, rgb(51, 0, 255)), 
        
-        to(rgb(240, 50, 50)));
+       to(rgb(168, 51, 255 )));
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
 line-height : 1.1em;
