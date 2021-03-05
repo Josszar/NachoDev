@@ -123,7 +123,7 @@ align-items: center;
 }
 
 .parrafo{
-  color: #363636 ; 
+
   font-family: 'Poppins', sans-serif;
   text-align: left;
   padding-left: 15%;
@@ -133,6 +133,21 @@ align-items: center;
 line-height : 1.8em;
 margin-top: 60px;
 }
+
+.gradient1 {
+        display: inline;
+         font-family: 'Poppins', sans-serif;
+        font-weight: bold;
+          font-size: 1.5em;
+        background: -webkit-gradient(linear, left top, right top, 
+        from(rgb(25, 76, 192)), color-stop(0%, rgb(0, 0, 255)), 
+       
+        to(rgb(51, 255, 249)));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+line-height : 1.1em;
+        
+      }
 
 
 
