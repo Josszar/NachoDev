@@ -104,13 +104,14 @@ align-items: center;
   padding-right: 15%;
 }
 
-.profession{
+.profession  {
   color: #3300FF; 
   font-size: 4em;
   font-family: 'Poppins', sans-serif;
   text-align: left;
   padding-left: 15%;
   padding-right: 15%;
+
 }
 
 .proximamente{
@@ -142,7 +143,7 @@ margin-top: 60px;
         background: -webkit-gradient(linear, left top, right top, 
      from(rgb(51, 0, 255)), color-stop(0%, rgb(51, 0, 255)), 
        
-       to(rgb(168, 51, 255 )));
+       to(rgb(0, 223, 216 )));
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
 line-height : 1.1em;
